@@ -35,7 +35,8 @@ module.exports = {
     'react/jsx-filename-extension': [2, {
       extensions: ['.js', '.jsx', '.ts', '.tsx']
     }],
-    'react/jsx-sort-props': 'error'
+    'react/jsx-sort-props': 'error',
+    'react/prop-types': 'off'
   },
   settings: {
     react: {
