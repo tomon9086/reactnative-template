@@ -1,6 +1,6 @@
-import { StatusBar } from 'expo-status-bar'
-import { Button, StyleSheet, View } from 'react-native'
 import { NavigationProp, useNavigation } from '@react-navigation/native'
+import { Button, StyleSheet, View } from 'react-native'
+import { StatusBar } from 'expo-status-bar'
 
 import { ParamList } from '~/types/navigation'
 
